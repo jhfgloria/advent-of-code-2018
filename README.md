@@ -1,4 +1,4 @@
-#Advent of Code 2018
+# Advent of Code 2018
 
 So, this year I decided to participate in adventofcode.com. 
 Because I was looking to learn some backend language, I decided for Ruby (I really like functional languages 💎).
