@@ -1,6 +1,6 @@
 # Advent of Code 2018
 
-So, this year I decided to participate in adventofcode.com. 
+So, this year I decided to participate in https://adventofcode.com/. 
 Because I was looking to learn some backend language, I decided for Ruby (I really like functional languages 💎).
 This repo has MY solutions to the Advent of Code 2018 challenge.
 
