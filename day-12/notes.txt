@@ -1,0 +1,5 @@
+After some experiments found that on generation 161 the pots start a fixed pattern:
+###.#....###...###....###......###....###....###....###....###.......###....###......###...###........###......###...........###......###....###...###...###.......###...###...###...###
+From that point on, the next generations just move all planted pots one pot to the right.
+
+I just need to find the planted positions on generation 161 and then sum them (50000000000-161)
