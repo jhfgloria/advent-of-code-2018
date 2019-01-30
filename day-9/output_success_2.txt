@@ -1,0 +1,54 @@
+current position: 6 current player 6 current score: 0; deleted: 9; marble: 23
+current position: 6 current player 12 current score: 0; deleted: 17; marble: 46
+current position: 43 current player 1 current score: 0; deleted: 11; marble: 69
+current position: -4 current player 7 current score: 0; deleted: 15; marble: 92
+current position: 33 current player 13 current score: 0; deleted: 50; marble: 115
+current position: 70 current player 2 current score: 0; deleted: 58; marble: 138
+current position: 107 current player 8 current score: 0; deleted: 66; marble: 161
+current position: 144 current player 14 current score: 0; deleted: 33; marble: 184
+current position: 181 current player 3 current score: 0; deleted: 37; marble: 207
+current position: 20 current player 9 current score: 0; deleted: 99; marble: 230
+current position: 57 current player 15 current score: 0; deleted: 107; marble: 253
+current position: 94 current player 4 current score: 0; deleted: 45; marble: 276
+current position: 131 current player 10 current score: 0; deleted: 55; marble: 299
+current position: 168 current player 16 current score: 0; deleted: 140; marble: 322
+current position: 205 current player 5 current score: 0; deleted: 148; marble: 345
+current position: 242 current player 11 current score: 0; deleted: 156; marble: 368
+current position: 279 current player 17 current score: 0; deleted: 73; marble: 391
+
+current position: 316 current player 6 current score: 32; deleted: 77; marble: 414
+current position: 353 current player 12 current score: 63; deleted: 189; marble: 437
+current position: 390 current player 1 current score: 80; deleted: 197; marble: 460
+current position: 427 current player 7 current score: 107; deleted: 88; marble: 483
+current position: 8 current player 13 current score: 165; deleted: 95; marble: 506
+current position: 45 current player 2 current score: 196; deleted: 226; marble: 529
+current position: 82 current player 8 current score: 227; deleted: 238; marble: 552
+current position: 119 current player 14 current score: 217; deleted: 246; marble: 575
+current position: 156 current player 3 current score: 244; deleted: 252; marble: 598
+current position: 193 current player 9 current score: 329; deleted: 117; marble: 621
+current position: 230 current player 15 current score: 360; deleted: 279; marble: 644
+current position: 267 current player 4 current score: 321; deleted: 287; marble: 667
+current position: 304 current player 10 current score: 354; deleted: 128; marble: 690
+current position: 341 current player 16 current score: 462; deleted: 10; marble: 713
+current position: 378 current player 5 current score: 493; deleted: 139; marble: 736
+current position: 415 current player 11 current score: 524; deleted: 328; marble: 759
+current position: 452 current player 17 current score: 464; deleted: 336; marble: 782
+
+LAST ROUND:
+current position: 489 current player 6 current score: 523; deleted: 343; marble: 805
+current position: 526 current player 12 current score: 689; deleted: 64; marble: 828
+current position: 563 current player 1 current score: 737; deleted: 369; marble: 851
+current position: 600 current player 7 current score: 678; deleted: 377; marble: 874
+current position: 637 current player 13 current score: 766; deleted: 385; marble: 897
+current position: 674 current player 2 current score: 951; deleted: 74; marble: 920
+current position: 711 current player 8 current score: 1017; deleted: 76; marble: 943
+current position: 748 current player 14 current score: 1038; deleted: 418; marble: 966
+current position: 785 current player 3 current score: 1094; deleted: 426; marble: 989
+current position: 822 current player 9 current score: 1067; deleted: 434; marble: 1012
+current position: 859 current player 15 current score: 1283; deleted: 3; marble: 1035
+current position: 896 current player 4 current score: 1275; deleted: 14; marble: 1058
+current position: 933 current player 10 current score: 1172; deleted: 467; marble: 1081
+current position: 970 current player 16 current score: 1185; deleted: 475; marble: 1104
+
+2764
+{1=>1957, 2=>1945, 3=>2509, 4=>2347, 5=>1368, 6=>1671, 7=>1929, 8=>2036, 9=>2513, 10=>2720, 11=>1611, 12=>1581, 13=>2048, 14=>2422, 15=>2321, 16=>2764, 17=>1582}
